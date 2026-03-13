@@ -33,7 +33,6 @@ If an enemy dies or a particle effect destroys itself, the spawner immediately k
 
 ## 🚀 Possible Extensions
 
-* **Object Pooling:** For massive amounts of projectiles or enemies, replace the "Instantiate" and "Destroy" logic with an Object Pool pattern to save memory.
 * **Wave System:** Add a "Wave" array that changes the "spawnInterval" and "maxActiveSpawns" over time.
 * **Weighted Spawning:** Instead of pure random selection, assign percentage weights to your prefabs (e.g., 90% chance to spawn a Goblin, 10% chance to spawn an Orc).
 
