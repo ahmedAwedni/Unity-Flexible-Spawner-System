@@ -29,7 +29,7 @@ Furthermore, by replacing pure random selection with a **Weighted Algorithm**, d
 2. **Assign Prefabs & Weights:** In the Inspector, expand the "Prefabs To Spawn" array. Add your prefabs and assign a weight to each (higher numbers mean they spawn more frequently).
 3. **Configure Limits:** Set your "Spawn Interval" (seconds between spawns) and "Max Active Spawns" (the cap).
 4. **Adjust Area:** Tweak the "Spawn Radius". Select the Spawner in the hierarchy to see a transparent green sphere indicating the spawn zone.
-5. **Run:** Start the game and watch the spawner accurately populate the area based on your assigned rarity weights!
+5. **Run:** Start the game and watch the spawner accurately populate the area based on your assigned rarity weights.
 
 ---
 
